@@ -89,8 +89,17 @@ The Global Superstore dataset contains sales transactions from multiple regions,
 ### 6️⃣ Dashboard Deployment
 - Ran dashboard locally using:
 ```bash
+pip install streamlit pandas plotly
 streamlit run app.py
 ```
+
+---
+
+## Dashboard Live Preview
+```bash
+https://ai-and-data-science-intership-task-10-4sqom32pmhhzmucquqg4sa.streamlit.app/
+```
+
 
 ---
 

@@ -97,7 +97,7 @@ streamlit run app.py
 
 ## Dashboard Live Preview
 ```bash
-https://ai-and-data-science-intership-task-10-4sqom32pmhhzmucquqg4sa.streamlit.app/
+https://ai-and-data-science-intership-task-10-cpsozr2gy8fnzadzkxgm4q.streamlit.app/
 ```
 
 
